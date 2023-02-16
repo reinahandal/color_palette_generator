@@ -1,0 +1,12 @@
+body{
+    background-color: #E8ECF3;
+}
+.container {
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.btn {
+    background-color: #9164ED;
+}
