@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color_palette_generator/static/css/main.071c7ba5.css",
+    "main.js": "/color_palette_generator/static/js/main.10abc9a6.js",
+    "static/js/787.40249e49.chunk.js": "/color_palette_generator/static/js/787.40249e49.chunk.js",
+    "index.html": "/color_palette_generator/index.html",
+    "main.071c7ba5.css.map": "/color_palette_generator/static/css/main.071c7ba5.css.map",
+    "main.10abc9a6.js.map": "/color_palette_generator/static/js/main.10abc9a6.js.map",
+    "787.40249e49.chunk.js.map": "/color_palette_generator/static/js/787.40249e49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071c7ba5.css",
+    "static/js/main.10abc9a6.js"
+  ]
+}
